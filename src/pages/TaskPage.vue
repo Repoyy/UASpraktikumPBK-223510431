@@ -39,7 +39,7 @@ export default {
 
 .q-pa-md {
   padding: 16px;
-  background-image: url('@/assets/pp3.jpg');
+  background-image: url('/assets/pp2.jpg');
   background-size: cover;
   background-position: center;
   height: 100vh;
